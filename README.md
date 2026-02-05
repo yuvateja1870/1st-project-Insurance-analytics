@@ -11,7 +11,7 @@ The objective of this project is to track business targets, performance metrics,
 ## 📊 Dataset Description
 
 • Policy Data – Contains policy and customer details used for insurance analysis.  
-• Target Data – Contains business planning targets used for performance comparison.  
+• Budget Data – Contains business planning targets used for performance comparison.  
 • Brokerage & Fees Data – Contains revenue information used to calculate placed achievement.  
 • Invoice Data – Contains billing information used for invoiced achievement analysis.  
 • Opportunity Data – Contains sales pipeline data used for funnel and conversion analysis.  
