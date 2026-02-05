@@ -81,8 +81,3 @@ Tableau was used to create additional visualizations and support advanced data s
 
 ## 📈 Business Outcome
 This project helps analyze business performance by comparing actual achievements with planned targets and monitoring sales pipeline activities.
-
----
-
-## ⚠ Data Privacy Note
-Due to data privacy policies, raw datasets are not included in this repository.
