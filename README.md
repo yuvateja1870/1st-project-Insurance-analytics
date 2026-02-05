@@ -28,5 +28,29 @@ Extracted data based on:
 - Opportunity Stage
 - Date Filters
 
+*JOINS AND DATA COMBINATION*
 
+Combined multiple tables such as:
+- Brokerage Data
+- Fees Data
+- Invoice Data
+- Meetings Data
+- Opportunity Data
+- Budget Data
 
+*DATA FUNCTIONS*
+
+Used date filtering to analyze:
+- Current Year Meetings
+- Time-based Business Growth
+
+*KEY SQL QUERIES IMPLEMENTED*
+
+- Target Analysis
+- Placed Achievement Calculation
+- Invoiced Achievement Calculation
+- Opportunity Funnel Reports
+- Meeting Analysis
+- Conversion Ratio Metrics
+
+Used SQL to transform raw insurance data into meaningful KPIs for performance tracking and decision-making.
